@@ -1,0 +1,10 @@
+numpy>=1.24
+sounddevice>=0.4.6
+sherpa-onnx>=1.10.0
+keyboard>=0.13.5
+pyperclip>=1.8.2
+punctuators>=0.0.5
+pystray>=0.19.4
+Pillow>=10.0.0
+requests>=2.31
+tqdm>=4.66
